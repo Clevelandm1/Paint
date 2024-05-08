@@ -1,1 +1,1 @@
-# Paint
+## [Click to Play](https://clevelandm1.github.io/Paint)
